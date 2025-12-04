@@ -156,6 +156,6 @@
   },
   "keywords": "[\"yyc3\",\"ktv\",\"admin-system\",\"next.js\",\"react\",\"typescript\",\"ai\",\"blockchain\",\"iot\",\"5g\",\"edge-computing\",\"big-data\"]",
   "overrides": {
-    "glob@>=10.2.0 <10.5.0": "10.5.0"
+    "glob": "10.5.0"
   }
 }
