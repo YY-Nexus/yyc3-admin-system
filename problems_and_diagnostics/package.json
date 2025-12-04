@@ -24,10 +24,10 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2",
-    "inquirer": "^8.2.4",
-    "tree-kill": "^1.2.2",
     "fs-extra": "^11.1.0",
+    "glob": "^10.5.0",
+    "inquirer": "^8.2.4",
     "moment": "^2.29.4",
-    "glob": "^10.3.0"
+    "tree-kill": "^1.2.2"
   }
 }
