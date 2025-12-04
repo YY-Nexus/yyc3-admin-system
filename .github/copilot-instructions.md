@@ -675,6 +675,19 @@ npm run test:security      # 安全扫描
 npm run test:coverage      # 生成覆盖率报告
 ```
 
+### 6. 代码质量命令
+
+```bash
+# 代码检查
+npm run lint             # ESLint 代码检查
+npm run format           # Prettier 代码格式化
+npm run type-check       # TypeScript 类型检查
+
+# 构建
+npm run build            # 生产环境构建
+npm run dev              # 启动开发服务器 (端口 5001)
+```
+
 ---
 
 ## 🔒 安全与性能规范
