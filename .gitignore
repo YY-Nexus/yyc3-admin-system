@@ -33,3 +33,4 @@ docs-check-report.json
 summary.json
 kanban-schema-gate.json
 .env.local
+problems_and_diagnostics/node_modules/
